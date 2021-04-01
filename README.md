@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Aprendendo GIT V.2
+=======
+# Aprendendo GIT V.3
+>>>>>>> 3e0fcb9b0d728dbb50108255028b5c04fea261a5
 
 ## Comandos basicos do git
 
